@@ -1,0 +1,4 @@
+((author "Fredrik Appelberg")
+ (synopsis "UUID generation")
+ (license "BSD")
+ (components (extension uuid-v4)))

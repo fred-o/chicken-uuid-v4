@@ -1,4 +1,7 @@
-(module uuid-v4 *
+(module uuid-v4 (make-uuid-v4
+				 nil-uuid
+				 uuid?
+				 uuid-v4?)
 
   (import scheme
           (chicken base)

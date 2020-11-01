@@ -1,0 +1,42 @@
+%%%% Starting test uuid-v4
+Group begin: uuid-v4
+Test begin:
+Test end:
+  result-kind: pass
+  actual-value: #f
+  expected-value: #f
+Test begin:
+Test end:
+  result-kind: pass
+  actual-value: #f
+  expected-value: #f
+Test begin:
+Test end:
+  result-kind: pass
+  actual-value: #f
+  expected-value: #f
+Test begin:
+Test end:
+  result-kind: pass
+  actual-value: #t
+  expected-value: #t
+Test begin:
+  test-name: "actual uuid-v4"
+Test end:
+  result-kind: pass
+  actual-value: #t
+  expected-value: #t
+Test begin:
+  test-name: "wrong version"
+Test end:
+  result-kind: pass
+  actual-value: #f
+  expected-value: #f
+Test begin:
+  test-name: "make-uuid-v4"
+Test end:
+  result-kind: pass
+  actual-value: #t
+  expected-value: #t
+Group end: uuid-v4
+# of expected passes      7

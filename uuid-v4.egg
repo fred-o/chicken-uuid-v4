@@ -1,4 +1,7 @@
 ((author "Fredrik Appelberg")
  (synopsis "UUID generation")
+ (category misc)
  (license "BSD")
- (components (extension uuid-v4)))
+ (version "1.0.0")
+ (components (extension uuid-v4))
+ (test-dependencies srfi-64))

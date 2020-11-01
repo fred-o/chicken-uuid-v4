@@ -1,0 +1,7 @@
+/*.log
+/*.sh
+/uuid-v4.import.scm
+/uuid-v4.import.so
+/uuid-v4.link
+/uuid-v4.so
+/uuid-v4.static.o
